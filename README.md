@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/Jesseekoh)
-- Twitter [@your-twitter](https://twitter.com/jesseekoh)
+- GitHub [@Jesseekoh](https://github.com/Jesseekoh)
+- Twitter [@Jesseekoh](https://twitter.com/jesseekoh)
